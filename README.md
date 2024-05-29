@@ -12,5 +12,3 @@ Late returns at checkout can generate high friction for the next driver if the c
 
 - Built a dashboard that will help the product Management team with the current situation to improve service efficiency and user experience : https://getaround-streamlit-7e0f29e5e931.herokuapp.com/
 - Develop a model which recommands the optimal daily rental price for a car (API with AWS and MLFLOW) : https://ceribou-api-7104afe788e2.herokuapp.com/docs
-
-![alt text](./img/getaround.png)
